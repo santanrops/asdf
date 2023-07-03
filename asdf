@@ -1,0 +1,7 @@
+message = "Hello, World!"
+name = "John"
+age = 25
+
+print(message)
+print("My name is", name)
+print("I am", age, "years old.")
